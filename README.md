@@ -43,3 +43,7 @@ This is a Python-based Inventory Management System for books that includes a con
 
 ---
 
+## Demo Videos
+
+-https://www.youtube.com/watch?v=mbJt9thbLgs
+-https://www.youtube.com/watch?v=igsM-cMkydw
