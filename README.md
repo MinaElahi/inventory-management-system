@@ -43,25 +43,3 @@ This is a Python-based Inventory Management System for books that includes a con
 
 ---
 
-## Setup Instructions
-
-### Console Application Setup
-
-1. Ensure Microsoft SQL Server is installed on your system.
-2. Open **SQL Server Management Studio (SSMS)**.
-3. Create a new database (e.g., `BookInventoryDB`).
-4. Execute the SQL script in `sql/books_inventory.sql` to set up the schema and insert sample data:
-   ```sql
-   USE BookInventoryDB;
-   CREATE TABLE Books (
-       EntryID INT PRIMARY KEY IDENTITY(1,1),
-       Title NVARCHAR(255) NOT NULL,
-       Author NVARCHAR(255) NOT NULL,
-       Genre NVARCHAR(100),
-       PublicationDate DATE,
-       ISBN NVARCHAR(13)
-   );
-   INSERT INTO Books (Title, Author, Genre, PublicationDate, ISBN)
-   VALUES
-   ('The Great Gatsby', 'F. Scott Fitzgerald', 'Fiction', '1925-04-10', '9780743273565'),
-   ('1984', 'George Orwell', 'Dystopian', '1949-06-08', '9780451524935');
