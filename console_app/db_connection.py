@@ -1,7 +1,7 @@
 import pyodbc
 
-server = 'localhost'  # Your server name from the screenshot
-database = 'BookInventoryDB'           # Your database name
+server = 'localhost'  
+database = 'BookInventoryDB'           
 
 try:
     connection = pyodbc.connect(

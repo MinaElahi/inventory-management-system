@@ -127,8 +127,8 @@ def export_books_to_csv():
         # Write to a CSV file
         with open('books_inventory.csv', 'w', newline='', encoding='utf-8') as csv_file:
             writer = csv.writer(csv_file)
-            writer.writerow(column_names)  # Write header row
-            writer.writerows(rows)        # Write data rows
+            writer.writerow(column_names)  
+            writer.writerows(rows)        
 
         print("Books data exported successfully to 'books_inventory.csv'!")
     except Exception as e:
@@ -226,18 +226,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Call the function
-# view_all_books()
-# add_new_book(
-#     title="Pride and Prejudice",
-#     author="Jane Austen",
-#     genre="Romance",
-#     publication_date="1813-01-28",
-#     isbn="9780141439518"  # Try with a unique ISBN and a duplicate ISBN
-# )
-# filter_books_by_author("Jane Austen")
-# export_books_to_csv()
-
-
-# Close the connection
 connection.close()

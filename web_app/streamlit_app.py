@@ -4,7 +4,7 @@ import streamlit as st
 import sqlite3
 from db_connection import create_books_table
 
-# Ensure the database table is created
+
 create_books_table()
 
 
