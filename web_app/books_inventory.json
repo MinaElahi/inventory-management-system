@@ -1,0 +1,74 @@
+[
+    {
+        "EntryID": 1,
+        "Title": "Saturdays with Ali",
+        "Author": "",
+        "Genre": "",
+        "PublicationDate": "2024-11-16",
+        "ISBN": ""
+    },
+    {
+        "EntryID": 2,
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Genre": "Fiction",
+        "PublicationDate": "1925-04-10",
+        "ISBN": "9780743273565"
+    },
+    {
+        "EntryID": 3,
+        "Title": "1984",
+        "Author": "F. Scott Fitzgerald",
+        "Genre": "Fiction",
+        "PublicationDate": "1949-06-08",
+        "ISBN": "9780451524935"
+    },
+    {
+        "EntryID": 4,
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Genre": "Fiction",
+        "PublicationDate": "1960-07-11",
+        "ISBN": "9780061120084"
+    },
+    {
+        "EntryID": 5,
+        "Title": "Moby Dick",
+        "Author": "Herman Melville",
+        "Genre": "Adventure",
+        "PublicationDate": "1851-10-18",
+        "ISBN": "781503280786"
+    },
+    {
+        "EntryID": 6,
+        "Title": "Sample Book",
+        "Author": "John Doe",
+        "Genre": "Fiction",
+        "PublicationDate": "2023-01-01",
+        "ISBN": "1234567890123"
+    },
+    {
+        "EntryID": 7,
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "Genre": "Romance",
+        "PublicationDate": "1813-01-28",
+        "ISBN": "9780141439518"
+    },
+    {
+        "EntryID": 8,
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "Genre": "Romance",
+        "PublicationDate": "2023-02-22",
+        "ISBN": "7589326709234"
+    },
+    {
+        "EntryID": 9,
+        "Title": "Hello",
+        "Author": "Mina",
+        "Genre": "Romance",
+        "PublicationDate": "2024-11-17",
+        "ISBN": "9837509378234"
+    }
+]

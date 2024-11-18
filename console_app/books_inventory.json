@@ -1,0 +1,82 @@
+[
+    {
+        "EntryID": 1,
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "genre": "Fiction",
+        "PublicationDate": "1925-04-10",
+        "ISBN": "9780743273565"
+    },
+    {
+        "EntryID": 2,
+        "Title": "1984",
+        "Author": "George Orwell",
+        "genre": "Dystopian",
+        "PublicationDate": "1949-06-08",
+        "ISBN": "9780451524935"
+    },
+    {
+        "EntryID": 3,
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "genre": "Fiction",
+        "PublicationDate": "1960-07-11",
+        "ISBN": "9780061120084"
+    },
+    {
+        "EntryID": 4,
+        "Title": "Moby Dick",
+        "Author": "Herman Melville",
+        "genre": "Adventure",
+        "PublicationDate": "1851-10-18",
+        "ISBN": "9781503280786"
+    },
+    {
+        "EntryID": 6,
+        "Title": "Sample Book",
+        "Author": "John Doe",
+        "genre": "Fiction",
+        "PublicationDate": "2023-01-01",
+        "ISBN": "1234567890123"
+    },
+    {
+        "EntryID": 11,
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "genre": "Romance",
+        "PublicationDate": "1813-01-28",
+        "ISBN": "9780141439518"
+    },
+    {
+        "EntryID": 19,
+        "Title": "Tested Book",
+        "Author": "Mina Elahi",
+        "genre": "Family",
+        "PublicationDate": "2023-02-22",
+        "ISBN": "7589326709234"
+    },
+    {
+        "EntryID": 20,
+        "Title": "My book",
+        "Author": "",
+        "genre": "",
+        "PublicationDate": "2024-11-16",
+        "ISBN": ""
+    },
+    {
+        "EntryID": 21,
+        "Title": "Best Book",
+        "Author": "Hedyeh",
+        "genre": "Mystery",
+        "PublicationDate": "2023-11-16",
+        "ISBN": "1357904578324"
+    },
+    {
+        "EntryID": 22,
+        "Title": "Saturdays with Ali",
+        "Author": "Hananeh",
+        "genre": "Romantic",
+        "PublicationDate": "2022-11-16",
+        "ISBN": "1357904758324"
+    }
+]
